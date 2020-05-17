@@ -1,0 +1,23 @@
+def exhasutivesearch(A):
+
+    b = np.arange(len(A))
+    c = permutations(b)
+    y = []
+    m  = []
+    for l in c:
+        y.append(np.asarray(l))
+
+    for j in range(len(y)):
+        p = 0
+        for i in range (len(b)-1):
+            p = p + A[y[j][i],y[j][i+1]]
+            k = i
+
+        p = p + A[y[j][k+1] , y[j][0]]
+
+        m.append(p)
+        
+    return min(m) 
+
+    
+exhasutivesearch(A)
