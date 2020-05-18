@@ -24,6 +24,8 @@ This repository contains files for an investigation into the Travelling Salesman
 
 To add...
 
+Need to explain the data folder and what's inside it.
+
 
 ## References
 
