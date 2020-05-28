@@ -22,9 +22,7 @@ This repository contains files for an investigation into the Travelling Salesman
 
 ## How to use
 
-To add...
-
-Need to explain the data folder and what's inside it.
+The data folder contains data from the TSPLIB. This project will use distance matrices for all experiments.
 
 
 ## References
