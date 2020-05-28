@@ -22,7 +22,8 @@ This repository contains files for an investigation into the Travelling Salesman
 
 ## How to use
 
-The data folder contains data from the TSPLIB. This project will use distance matrices for all experiments.
+The data folder contains datasets from the TSPLIB. This project will use distance matrices for all experiments. The datasets downloaded from the TSPLIB are text files that will be formatted into an acceptable format for the algorithms. This process is done using the "formatting" function
+ 
 
 
 ## References
