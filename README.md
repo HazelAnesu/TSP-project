@@ -17,7 +17,7 @@ This repository contains files for an investigation into the Travelling Salesman
 
 
 * Quantum Methods
-	*VQE 
+	* VQE 
 
 
 ## How to use
